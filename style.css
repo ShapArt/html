@@ -1,0 +1,39 @@
+body {
+	font-size: 14x;
+	color: #000000;
+	font-family: arial, helvetica, sans-serif;
+}
+h1 {
+	color: #ffffff;
+	background-color: #000000;
+	font-size: 2em;
+	border-style: dashed;
+	border-width: 3px:
+	border-left-width: 10px;
+	border-right-width: 10px;
+	border-color: white;
+	background-color: #000000;
+}
+h2 {
+	color: #ffffff;
+	font-size: 1.5em;	
+	border-style: dashed;
+	border-width: 3px:
+	border-left-width: 10px;
+	border-right-width: 10px;
+	border-color: white;
+	background-color: #000000;
+    	margin: 10px;
+    	padding: 20px;4
+a {
+	text-decoration: none;
+}
+strong {
+	font-style: italic:
+	text-transform: uppercase;
+}
+p {
+	line-height: 1.5;
+	text-alingn: center;
+}
+
